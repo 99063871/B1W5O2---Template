@@ -1,0 +1,117 @@
+body{
+	line-height: 1.7em; font-family: 'Roboto', sans-serif;
+	color: rgba(255, 255, 255, 0.8);
+	background-image: url(header_bg.jpg);
+	background-color: #cccccc;
+}
+
+.logo{
+	position: absolute;
+	top: 50%;
+	left:50%;
+	transform: translate(-50%, -50%);
+	margin: 0 auto;
+	overflow: hidden;
+	padding-bottom: 25px;
+	width: 453px;
+	height:233px;
+}
+
+.home{
+	display: inline-block;
+	width: 20px;
+	margin: 0 auto;
+	font-size:30px;
+	margin-right:20px;
+	position: absolute;
+	top:75%;
+	left:20%;
+}
+
+.features{
+	display: inline-block;
+	width: 20px;
+	margin: 0 auto;
+	font-size:30px;
+	margin-right:20px;
+	position: absolute;
+	top:75%;
+	left:30%;
+}
+
+.pages{
+	display: inline-block;
+	width: 20px;
+	margin-left:20px;
+	margin: 0 auto;
+	font-size:30px;
+	margin-right:20px;
+	position: absolute;
+	top:75%;
+	left:40%;
+}
+
+.portfolio{
+	display: inline-block;
+	width: 20px;
+	margin: 0 auto;
+	font-size:30px;
+	margin-right:20px;
+	position: absolute;
+	top:75%;
+	left:50%;
+}
+
+.blog{
+	display: inline-block;
+	width: 20px;
+	margin: 0 auto;
+	font-size:30px;
+	margin-right:20px;
+	position: absolute;
+	top:75%;
+	left:60%;
+}
+
+.contact{
+	display: inline-block;
+	width: 20px;
+	margin: 0 auto;
+	font-size:30px;
+	margin-right:20px;
+	position: absolute;
+	top:75%;
+	left:70%;
+}
+
+.span{
+	text-decoration: none;
+}
+a:link {
+  text-decoration: none;
+  color: rgba(255, 255, 255, 0.8);
+}
+
+.fa-home{
+	font-size:40px;
+}
+
+.fa-cogs{
+	font-size: 40px;
+}
+
+.fa-copy{
+	font-size: 40px;
+}
+
+.fa-th{
+	font-size: 40px;
+}
+
+.fa-font{
+	font-size: 40px;
+}
+
+.fa-comment{ 
+	font-size: 40px;
+}
